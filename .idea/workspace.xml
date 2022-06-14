@@ -4,10 +4,8 @@
     <list default="true" id="e4d88f50-4e41-4d0e-bf97-d4f116f4fde2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5234-移除字母异位词后的结果数组【293周赛】.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5299-找到一个数字的K美丽值【78双周赛】.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6064-不含特殊楼层的最大连续楼层数【293周赛】.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6067-分割数组的方案数【78双周赛】.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/周赛/【78双周赛】6084-最多单词数的发件人.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/周赛/【78双周赛】6085-道路的最大总重要性.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
