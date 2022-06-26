@@ -4,8 +4,6 @@
     <list default="true" id="e4d88f50-4e41-4d0e-bf97-d4f116f4fde2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/周赛/【78双周赛】6084-最多单词数的发件人.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/周赛/【78双周赛】6085-道路的最大总重要性.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +37,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test (2).py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/pptest1.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="pptest1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LeetCode_local" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/test (2).py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/pptest1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
