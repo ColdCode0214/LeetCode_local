@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e4d88f50-4e41-4d0e-bf97-d4f116f4fde2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode_local.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode_local.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +39,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/week 2/pigimgclassification/train.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/week 3/test3.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LeetCode_local" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\LeetCode\LeetCode_local\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/week 2/pigimgclassification" />
+      <option name="SDK_HOME" value="D:\CodingTool2\Anaconda3\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/week 3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/week 2/pigimgclassification/train.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/week 3/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
